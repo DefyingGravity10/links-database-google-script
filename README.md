@@ -12,3 +12,6 @@ This project is a database intended to easily access links. With this Sheet, use
 
 <h2><strong>Disclaimer</strong></h2>
 This project is merely intended to easily access links. Essentially, it is meant to only store non-sensitive information. Essentially, the creator will not be viable for any form of data breeches should the user opt to place sensitive information.
+
+<h2><strong>Notes</strong></h2>
+The raw source codes used for this project can be found within the scripts folder.
